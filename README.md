@@ -84,9 +84,10 @@ Tracks:
 ## 🧠 Model Overview
 
 - **Stacked Ensemble model**
-  - Random Forest
-  - Gradient Boosting
-  - Logistic Regression (meta-learner)
+  - XGBoost
+  - CatBoost
+  - LGBM
+  - XGBoost (meta-learner)
 - **Feature Engineering**
   - BMI  
   - Pulse pressure  
@@ -94,16 +95,7 @@ Tracks:
   - Lifestyle risk score  
   - Age converted from years → days  
 
----
 
-## 🙌 Acknowledgements
 
-- UCI Heart Disease Dataset  
-- Streamlit  
-- Flask  
-- MLflow  
-- Scikit-learn  
-
----
 
 
