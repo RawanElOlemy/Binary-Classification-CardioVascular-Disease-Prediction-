@@ -19,3 +19,38 @@ A machine learning project that predicts cardiovascular disease risk using a **S
 ## 📁 Project Structure
 
 
+---
+
+## 🚀 Features
+
+### ✔ Streamlit Dashboard
+- Data exploration (EDA)
+- Feature importance & statistical visualizations
+- Model performance overview
+- **Live prediction form**
+- CSV-style preview of input data
+- Sends JSON to the Flask API
+
+### ✔ Flask API
+- Receives model input as JSON
+- Reconstructs engineered features:
+  - BMI  
+  - Pulse Pressure  
+  - Blood Pressure Stage  
+  - Lifestyle Risk  
+  - Age in days  
+- Returns prediction + probability
+- Optional MLflow logging for API usage
+
+### ✔ MLflow Tracking
+Tracks:
+- Training experiments  
+- Streamlit live predictions  
+- Flask API predictions  
+
+---
+
+## 🧪 How to Run the Project
+
+### 1️⃣ Install Dependencies
+####  run pip install -r requirements.txt
