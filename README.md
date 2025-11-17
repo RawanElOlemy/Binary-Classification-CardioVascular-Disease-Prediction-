@@ -16,8 +16,6 @@ A machine learning project that predicts cardiovascular disease risk using a **S
 <img width="1869" height="816" alt="image" src="https://github.com/user-attachments/assets/b70ef631-1018-431f-8feb-83f35647cdfe" />
 
 
-## 📁 Project Structure
-
 
 ---
 
