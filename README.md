@@ -54,3 +54,56 @@ Tracks:
 
 ### 1️⃣ Install Dependencies
 ####  run pip install -r requirements.txt
+
+### 2️⃣ Start the Flask API
+#### run python app.py
+
+### 3️⃣ Run the Streamlit Dashboard
+#### streamlit run Dashboard.py
+
+
+---
+
+## 🔧 How Prediction Works
+
+1. User enters health data into Streamlit.
+2. Streamlit shows a CSV-style preview of the input.
+3. Streamlit sends the input as **JSON** to the Flask `/predict` endpoint.
+4. Flask performs feature engineering using:
+   - `add_bmi`
+   - `add_pulse_pressure`
+   - `encode_ap_status`
+   - `lifestyle_risk`
+5. Model predicts:
+   - `prediction`: 0 = Low Risk, 1 = High Risk  
+   - `probability`: model confidence  
+6. Streamlit displays the result to the user.
+
+---
+
+## 🧠 Model Overview
+
+- **Stacked Ensemble model**
+  - Random Forest
+  - Gradient Boosting
+  - Logistic Regression (meta-learner)
+- **Feature Engineering**
+  - BMI  
+  - Pulse pressure  
+  - Blood pressure stage encoding  
+  - Lifestyle risk score  
+  - Age converted from years → days  
+
+---
+
+## 🙌 Acknowledgements
+
+- UCI Heart Disease Dataset  
+- Streamlit  
+- Flask  
+- MLflow  
+- Scikit-learn  
+
+---
+
+
