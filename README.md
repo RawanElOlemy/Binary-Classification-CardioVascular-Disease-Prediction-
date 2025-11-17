@@ -5,7 +5,6 @@ A machine learning project that predicts cardiovascular disease risk using a **S
 ---
 
 ## 📸 Screenshots
-<img width="1916" height="877" alt="image" src="https://github.com/user-attachments/assets/6932b684-0c83-4c3e-9d40-d1ed7db13155" />
 
 ### MLflow Experiments
 <img width="1910" height="769" alt="image" src="https://github.com/user-attachments/assets/832b9a41-f33e-43d0-b85e-106cd91de644" />
