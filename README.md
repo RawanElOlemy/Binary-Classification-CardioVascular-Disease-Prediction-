@@ -93,7 +93,14 @@ Tracks:
   - Lifestyle risk score  
   - Age converted from years → days  
 
+## 👥 Contributors
 
+- [Omar Nashat](#)
+- [Rawan Khalid](#)
+- [Mazen Mohamed](#)
+- [Felopater Ashraf](#)
+- [Shahd Sayed](#)
+- [Jana Ashraf](#)
 
 
 
