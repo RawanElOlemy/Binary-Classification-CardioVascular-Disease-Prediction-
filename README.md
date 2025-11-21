@@ -96,10 +96,10 @@ Tracks:
 ## 👥 Contributors
 
 - [Omar Nashat](https://github.com/OmarNashat1124)
-- [Rawan Khalid](#)
-- [Mazen Mohamed](#)
-- [Felopater Ashraf](#)
-- [Shahd Sayed](#)
+- [Rawan Khalid](https://github.com/RawanElOlemy)
+- [Mazen Mohamed](https://github.com/mazenmuhamed14)
+- [Felopater Ashraf](https://github.com/FelopaterAshraf)
+- [Shahd Sayed](https://github.com/ShahdSayed4)
 - [Jana Ashraf](#))
 
 
