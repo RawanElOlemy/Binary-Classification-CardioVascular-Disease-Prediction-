@@ -1,6 +1,6 @@
 # Binary-Classification-CardioVascular-Disease-Prediction
 # Cardiovascular Disease Prediction Dashboard
-A machine learning project that predicts cardiovascular disease risk using a **Stacked Ensemble Model**, an interactive **Streamlit Dashboard**, a **Flask API**, and **MLflow** for experiment tracking.
+A Machine learning project that predicts cardiovascular disease risk using a **Stacked Ensemble Model**, an interactive **Streamlit Dashboard**, a **Flask API**, and **MLflow** for experiment tracking.
 
 ---
 
